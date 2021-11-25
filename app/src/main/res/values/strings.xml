@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RencanaIN-rebuild</string>
+    <string name="rencanain">RencanaIN</string>
+    <string name="name_todo">name todo</string>
+    <string name="add_a_card">ADD A CARD</string>
+    <string name="ketik_disini">Ketik disini</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="batal">BATAL</string>
+    <string name="hapus">HAPUS</string>
+    <string name="update">UPDATE</string>
+</resources>
